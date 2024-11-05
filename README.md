@@ -20,7 +20,7 @@ I want to thank my daughter Alice for her patience and dedication in carrying ou
  This notebook project contains:
  * a CSV file with labels used - task_classes_names.cvs
  * a CSV file with all ARC Prize 2024 training tasks labeled
- * a interactive viewer to display the set of training tasks
+ * a Jupyter Notebook with interactive viewer to display the set of training tasks
  * source code agregate the labels into your data.
  
  This is release under MIT License 
