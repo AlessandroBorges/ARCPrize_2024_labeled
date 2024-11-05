@@ -1,0 +1,38 @@
+label_id,label_str,description
+0,unspecified,unknow rule
+1,extraction,extraction with variable output 
+2,selection,extract/select shapes with regular output
+3,addition,when fences defines sum of shapes 
+4,alignment,shapes alligment
+5,assemble,shape aggregation
+6,attraction,some shapes move towards others or boundaries
+7,translation,shape move in one direction
+8,combination,shapes are combined
+9,completion,simple fill
+10,connection,connect dots alligned horizontal and vertical
+11,full_filling,full filled shapes
+12,construction,diagonal and cross lines and spirals
+13,contamination,shape tainted by neighbors
+14,extension,input is replicated shape size increases
+15,fence,variation of addition
+16,filling,fill empty spaces
+18,mapping,input maps the outputs 
+19,match_color,associate a image to a color
+20,modification,minor changes and shape completion
+21,nesting,shapes inside shapes
+22,pattern,create patterns and outputs looks alike
+23,placement,shapes are moved slighly
+24,raven, raven
+25,removal,remove shapes
+26,replication,make copies of itself
+27,reproduction,
+28,rotation,rotate or flip image
+29,scaling, scale up image
+30,counting,output is the sum of something in input
+31,sequence,counting shapes or sequencing by size
+32,symmetry,shapes are strongly symmetric
+33,bars,create bars
+34,map_order,a place has a map to rule task 
+
+
+
