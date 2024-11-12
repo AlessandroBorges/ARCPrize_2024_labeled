@@ -13,7 +13,7 @@ For the ARC Prize challenge specifically, we carefully labeled training data to 
 
 That said, we recognize that a small team of curators may not be able to produce the optimal labeled dataset due to several factors, such as limited cross-validation, fatigue, and time constraints. Furthermore, there is **no guarantee** that the labeled data will lead to better results, as the effectiveness of the dataset ultimately depends on a well-implemented classifier and a robust solver model.
 
-I would also like to express my sincere gratitude to my daughter Alice for her patience and dedication in carrying out this important work."
+I would also like to express my sincere gratitude to my daughter Alice for her patience and dedication in carrying out this work with me.
 
  # About this Project
 
@@ -25,11 +25,11 @@ I would also like to express my sincere gratitude to my daughter Alice for her p
  
  This is release under MIT License 
    
-The CVS:
+The CSV data (screensho):
 
 <img src="./src/csv.jpg" alt="screenshot of CSV" width="75%">
 
 
-The Viewer:
+The Viewer and the challenge category selection:
 
 <img src="./src/preview.jpg" alt="screenshot of CSV" width="75%">
