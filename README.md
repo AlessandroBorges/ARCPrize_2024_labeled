@@ -11,9 +11,9 @@ Human-labeled data is essential for machine learning success, serving as the gro
 
 For the ARC Prize challenge specifically, we carefully labeled training data to help models better understand and evaluate the learning steps, allowing them to have more parameters to distinguish between one example to another. When humans take the time to provide thoughtful labels, they create a reliable compass that guides model training toward human-aligned understanding and performance.
 
-That sad, we are aware that a small team of curators may not produce the optimal labeled dataset, due several factors, as lower cross-validation, fatigue and time constraints. Also, there is **NO garanty** that the labeled data will produce better results, as it depends of a well implemented classifier and a new solver model. 
+That said, we recognize that a small team of curators may not be able to produce the optimal labeled dataset due to several factors, such as limited cross-validation, fatigue, and time constraints. Furthermore, there is **no guarantee** that the labeled data will lead to better results, as the effectiveness of the dataset ultimately depends on a well-implemented classifier and a robust solver model.
 
-I want to thank my daughter Alice for her patience and dedication in carrying out this work.
+I would also like to express my sincere gratitude to my daughter Alice for her patience and dedication in carrying out this important work."
 
  # About this Project
 
