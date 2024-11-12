@@ -2,7 +2,7 @@
 
 "You can't manage what you don't know."
 
-# Human-Labeled Data: The Foundation of Reliable Machine Learning
+# Human-Labeled Data for ARC Prize 2024
 
 <img src="./src/labeling.webp" alt="Uma menina brincando com etiquetas" width="25%">
 
