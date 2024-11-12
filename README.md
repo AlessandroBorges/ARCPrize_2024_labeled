@@ -25,7 +25,7 @@ I would also like to express my sincere gratitude to my daughter Alice for her p
  
  This is release under MIT License 
    
-The CSV data (screensho):
+The CSV data (screenshot):
 
 <img src="./src/csv.jpg" alt="screenshot of CSV" width="75%">
 
