@@ -1,10 +1,12 @@
-## ARC 2024: Labeling tasks
+
 
 "You can't manage what you don't know."
 
 # Human-Labeled Data for ARC Prize 2024
 
-<img src="./src/labeling.webp" alt="Uma menina brincando com etiquetas" width="25%">
+"You can't manage what you don't know."
+
+<img src="./src/labeling.webp" alt="girl playing with labels" width="25%">
 
 
 Human-labeled data is essential for machine learning success, serving as the ground truth that enables models to learn meaningful patterns and make more accurate predictions. 
